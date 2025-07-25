@@ -1,6 +1,6 @@
 # Unsupervised Motion Retargeting for Human-Robot Imitation
 
-A part of code is from https://github.com/DeepMotionEditing/deep-motion-editing
+The code is the base for article [Unsupervised Motion Retargeting for Human-Robot Imitation](https://hal.science/hal-04401885v1/file/Annabi2024C2AICHI.pdf). A part of code is from https://github.com/DeepMotionEditing/deep-motion-editing
 
 ## Instructions
 
